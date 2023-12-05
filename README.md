@@ -1,4 +1,4 @@
-project live here - t
+project live here - https://dailygoalsreact.netlify.app/
 
 his is the first react project that i made
 studied hooks, and got first practical experience of working with react 
